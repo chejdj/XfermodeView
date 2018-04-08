@@ -29,7 +29,7 @@ in your Activitity
        android:background="@color/colorAccent"
 />
 ```  
-background is the Covering color, it must be defined in Color files.  
+background is the Covering color, it must be defined in colors.xml file.  
 src is the Covered picture.  
 
 #### Example  
