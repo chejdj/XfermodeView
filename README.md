@@ -33,7 +33,7 @@ background is the Covering color, it must be defined in Color files.
 src is the Covered picture.  
 
 #### Example  
-![效果图](ggg)
+![效果图](https://github.com/chejdj/XfermodeView/blob/master/images/01.png)
 
 
 
