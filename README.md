@@ -21,16 +21,16 @@ dependencies {
 
 #### usages
 in your Activitity  
-<pre>
+```
 <com.example.administrator.view_designbyself.XfermodeView
        android:layout_width="200dp"
        android:layout_height="200dp"
        android:src="@drawable/test"
        android:background="@color/colorAccent"
 />
-</pre>  
-`background` is the Covering color, it must be defined in Color files.  
-`src` is the Covered picture.  
+```  
+background is the Covering color, it must be defined in Color files.  
+src is the Covered picture.  
 
 #### Example  
 ![效果图](ggg)
