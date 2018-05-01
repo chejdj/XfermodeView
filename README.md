@@ -15,7 +15,7 @@ allprojects {
 Add the dependency
 <pre>
 dependencies {
-	        compile 'com.github.chejdj:XfermodeView:1.0'
+	        compile 'com.github.chejdj:XfermodeView:2.0'
 }
 </pre>  
 
@@ -26,11 +26,11 @@ in your Activitity
        android:layout_width="200dp"
        android:layout_height="200dp"
        android:src="@drawable/test"
+       app:color="#000"
        android:background="@color/colorAccent"
 />
 ```  
-background is the Covering color, it must be defined in colors.xml file.  
-src is the Covered picture.  
+'app: color' is the Covering color  
 
 #### Example  
 ![效果图](https://github.com/chejdj/XfermodeView/blob/master/images/01.png)
