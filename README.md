@@ -15,7 +15,7 @@ allprojects {
 Add the dependency
 <pre>
 dependencies {
-	        compile 'com.github.chejdj:XfermodeView:2.0'
+	        compile 'com.github.chejdj:XfermodeView:1.0'
 }
 </pre>  
 
