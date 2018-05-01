@@ -5,9 +5,11 @@
     android:orientation="vertical"
     >
    <com.example.administrator.view_designbyself.XfermodeView
-       android:layout_width="200dp"
-       android:layout_height="200dp"
-       android:src="@drawable/test"
-       android:background="@color/colorAccent"
-       />
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="20dp"
+        app:color="@color/colorAccent"
+        android:background="#000"
+        android:src="@drawable/test"/>
 </LinearLayout>
